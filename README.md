@@ -40,6 +40,7 @@ This Arduino sketch (arduino_serial.txt) is designed to receive commands from a 
 - Arduino Mega 2560 or other Arduino boards.
 
 ## ESP32 Webcam Integration
+<img src="SBC-ESP32-Cam_1.png" alt="Image" width="300"/>
 This file contains the initialization code for integrating ESP32-based webcams into the system. It ensures proper setup and communication between the Python script and the ESP32 devices.
 
 Requirements:
