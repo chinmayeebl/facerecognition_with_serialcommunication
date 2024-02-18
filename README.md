@@ -8,7 +8,7 @@ Co-authored by [Co-Author 1](https://github.com/rohitb-patil).
 
 https://github.com/chinmayeebl/facerecognition_with_serialcommunication/assets/143340347/22fd133f-b766-4992-876d-9a389b952f66 
 
-## Project Description
+# Project Description
 
 This project combines three key components: 
 1. *Facial Recognition Model Implementation*: We have developed a facial recognition model to identify individuals.
@@ -17,12 +17,12 @@ This project combines three key components:
 4. *Peripheral Integration with Arduino*: Various peripherals such as LCD displays and servo motors are interfaced with Arduino, enhancing the functionality and capabilities of the system.
 
 
-# Facerecognise.py
+## Facerecognise.py
 
 This Python script (facerecognise.py) provides functionality for face recognition utilizing OpenCV's face detection algorithms. It communicates with an Arduino board via serial communication to actuate peripherals based on the recognized faces.
 
 
-## Requirements:
+### Requirements:
 - Python 3 and above
 - OpenCV
 - pySerial
@@ -30,12 +30,12 @@ This Python script (facerecognise.py) provides functionality for face recognitio
 
 ---
 
-# Arduino Serial Communication (arduinoserial)
+## Arduino Serial Communication (arduinoserial)
 
 This Arduino sketch (arduino_serial.txt) is designed to receive commands from a Python script via serial communication and actuate peripherals connected to an Arduino Mega board accordingly.
 
 
-## Requirements:
+### Requirements:
 - Arduino IDE  version 2.0 and above
 - Arduino Mega 2560 or other Arduino boards.
 
@@ -45,7 +45,7 @@ This Arduino sketch (arduino_serial.txt) is designed to receive commands from a 
 
 This file contains the initialization code for integrating ESP32-based webcams into the system. It ensures proper setup and communication between the Python script and the ESP32 devices.
 
-Requirements:
+### Requirements:
 - Arduino IDE  version 2.0 and above
 - Arduino board and FT232 USB Driver.
 - Compatible libraries and dependencies
