@@ -16,6 +16,7 @@ This project combines three key components:
 3. *Python-Arduino Integration via Serial Communication*: Python scripts are interfaced with Arduino microcontrollers using serial communication, enabling seamless interaction between the two platforms.
 4. *Peripheral Integration with Arduino*: Various peripherals such as LCD displays and servo motors are interfaced with Arduino, enhancing the functionality and capabilities of the system.
 
+---
 
 ## Facerecognise.py
 
@@ -38,6 +39,8 @@ This Arduino sketch (arduino_serial.txt) is designed to receive commands from a 
 ### Requirements:
 - Arduino IDE  version 2.0 and above
 - Arduino Mega 2560 or other Arduino boards.
+
+---
 
 ## ESP32 Webcam Integration
 <img src="SBC-ESP32-Cam_1.png" alt="Image 1" width="300"/> <img src="ft232rl.png" alt="Image 2" width="300"/>
