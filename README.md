@@ -1,2 +1,3 @@
 # facerecognition_with_serialcommunication
-![Image](robo.png)
+img src="robo.png" alt="Image" width="200" height="150"
+
